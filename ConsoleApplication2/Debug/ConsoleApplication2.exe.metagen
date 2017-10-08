@@ -1,0 +1,53 @@
+  ConsoleApplication2.MyForm.resources - Embedded, ContainedInManifestFile, 
+ImageRuntimeVersion: v4.0.30319
+Assembly ConsoleApplication2, Version=1.0.*, Culture=不因語言而異 (不因國別而異): 
+	hash=SHA1, flags=PublicKey
+Assembly mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a: 
+	hash=None, flags=None
+Assembly System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Xml, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Class ConsoleApplication2.MyForm: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    System.Windows.Forms.Label lb0 : Public
+    System.Windows.Forms.Label lb1 : Public
+    System.Windows.Forms.Label lb2 : Public
+    System.Windows.Forms.Label lb5 : Public
+    System.Windows.Forms.Label lb4 : Public
+    System.Windows.Forms.Label lb3 : Public
+    System.Windows.Forms.Label lb11 : Public
+    System.Windows.Forms.Label lb10 : Public
+    System.Windows.Forms.Label lb9 : Public
+    System.Windows.Forms.Label lb8 : Public
+    System.Windows.Forms.Label lb7 : Public
+    System.Windows.Forms.Label lb6 : Public
+    System.Windows.Forms.Label lb17 : Public
+    System.Windows.Forms.Label lb16 : Public
+    System.Windows.Forms.Label lb15 : Public
+    System.Windows.Forms.Label lb14 : Public
+    System.Windows.Forms.Label lb13 : Public
+    System.Windows.Forms.Label lb12 : Public
+    System.Windows.Forms.Label lb23 : Public
+    System.Windows.Forms.Label lb22 : Public
+    System.Windows.Forms.Label lb21 : Public
+    System.Windows.Forms.Label lb20 : Public
+    System.Windows.Forms.Label lb19 : Public
+    System.Windows.Forms.Label lb18 : Public
+    System.Windows.Forms.Label lb29 : Public
+    System.Windows.Forms.Label lb25 : Public
+    System.Windows.Forms.Label lb27 : Public
+    System.Windows.Forms.Label lb26 : Public
+    System.Windows.Forms.Label lb24 : Public
+    System.Windows.Forms.Label lb28 : Public
+  Methods:
+    run(Int32, Int32): PrivateScope, Public, HideBySig
+    button1_Click(Object, EventArgs): PrivateScope, Public, HideBySig

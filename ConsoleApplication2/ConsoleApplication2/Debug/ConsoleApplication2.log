@@ -1,0 +1,16 @@
+﻿已經開始建置於 2017/10/8 下午 04:05:58。
+     1>節點 2 (Build 目標) 上的專案 "C:\Users\Yi-Ting\Documents\Visual Studio 2013\Projects\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.vcxproj"。
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(381,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (ConsoleApplication2.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+     1>Link:
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Yi-Ting\Documents\Visual Studio 2013\Projects\ConsoleApplication2\Debug\Reinforcement Learning.exe" /INCREMENTAL /NOLOGO /LIBPATH:"C:\Users\User\Documents\Visual Studio 2013\Projects\ConsoleApplication2\Debug" kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /ASSEMBLYRESOURCE:Debug\ConsoleApplication2.MyForm.resources /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Yi-Ting\Documents\Visual Studio 2013\Projects\ConsoleApplication2\Debug\Reinforcement Learning.pdb" /ASSEMBLYDEBUG /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"main" /DYNAMICBASE /FIXED:NO /NXCOMPAT /MACHINE:X86 Debug\app.res
+         Debug\AssemblyInfo.obj
+         Debug\ConsoleApplication2.obj
+         Debug\MyForm.obj
+         Debug\stdafx.obj
+         "Debug\.NETFramework,Version=v4.5.AssemblyAttributes.obj"
+         ConsoleApplication2.vcxproj -> C:\Users\Yi-Ting\Documents\Visual Studio 2013\Projects\ConsoleApplication2\Debug\Reinforcement Learning.exe
+     1>專案 "C:\Users\Yi-Ting\Documents\Visual Studio 2013\Projects\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.vcxproj" (Build 目標) 建置完成。
+
+建置成功。
+
+經過時間 00:00:01.56
